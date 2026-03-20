@@ -1,0 +1,9 @@
+#Archivos temporales
+#.log
+#.tmp
+#.sqlite
+#.db
+venv/
+__pycahe__/
+.env
+
