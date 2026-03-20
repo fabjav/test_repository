@@ -1,9 +1,16 @@
-#Archivos temporales
-#.log
-#.tmp
-#.sqlite
-#.db
-venv/
-__pycahe__/
-.env
+# Archivos temporales
+*.log
+*.tmp
 
+# Bases de datos
+*.sqlite
+*.db
+
+# Entornos virtuales
+venv/
+
+# Caché de Python
+__pycache__/
+
+# Configs locales
+.env
